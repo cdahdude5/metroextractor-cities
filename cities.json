@@ -3818,6 +3818,14 @@
                     "right": "-121.589"
                     }
                 },
+                "san-diego_california": {
+                    "bbox": {
+                        "top": "33.1651",
+                        "left": "-117.5784",
+                        "bottom": "32.4843",
+                        "right": "-116.6364"
+                    }
+                },
                 "san-juan_puerto-rico": {
                     "bbox": {
                         "top": "18.502",
